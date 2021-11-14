@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ansel, a sophomore majoring in English Literature at Nanyang Technological University.
+- 👋 Hello! I’m Ansel, a sophomore majoring in English Literature at Nanyang Technological University.
 - 👀 I’m interested in
 - 🌱 I’m currently learning incorporating Dart into my programming repetoire.
 - 💞️ I am looking to work in web design in the future.
