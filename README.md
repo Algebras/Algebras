@@ -1,9 +1,5 @@
 - 👋 Hello friends! I’m Ansel, board games gym film guy who started programming in 2012 using PHP and Java. My personal page is at www.ansel.biz
-- 🌱 I’m currently learning to use Blender and Maya to render assets for VFX.
+- 🌱 As of October 2025. I’m currently learning to use Blender and Maya to render assets for VFX.
 - 👀 I compete in Rubik's cube competitions, FIDE chess competitions and WSPA Scrabble competitions, reaching a peak official ranking of top 100 in Singapore across all 3.
 - 💞️ I bench 100kg.
 - 📫 You can reach me via my email at a@ansel.biz or through my telegram handle @BrackiumEmendo.
-
-<!---
-
---->
