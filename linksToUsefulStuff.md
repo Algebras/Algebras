@@ -1,4 +1,4 @@
-# Very Useful Online Tools that I Personally Use
+# Useful Online Tools that I Personally Use
 <br> This list contains some of the online resources I use to build my apps. The softwares that I download and use often are in a different file.
 
 ## For Web Design (front end)
