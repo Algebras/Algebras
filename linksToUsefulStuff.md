@@ -1,5 +1,5 @@
 # Very Useful Online Tools that I Personally Use
-### This list contains some of the online resources I use to build my apps. The softwares that I download and use often are in a different file.
+<br> This list contains some of the online resources I use to build my apps. The softwares that I download and use often are in a different file.
 
 ## For Web Design (front end)
 - [Figma](https://www.figma.com/) <br> I don't use Figma much for solo projects that I work on by myself, but if I have to present a manifest to a team, I willl use Figma to supplement and help others better visualise the pipelines.
