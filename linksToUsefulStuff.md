@@ -3,6 +3,8 @@
 
 ## For Web Design (front end)
 - [Figma](https://www.figma.com/) <br> I don't use Figma much for solo projects that I work on by myself, but if I have to present a manifest to a team, I willl use Figma to supplement and help others better visualise the pipelines.
+- [htmlColorCodes](https://htmlcolorcodes.com/color-names/) <br> Easy to navigate compilation of browser-friendly colour names, their HEX codes and RGB values
+- [FontAwesome icons](https://fontawesome.com/search?o=r) <br> A library of icons, from common, to the magical, to the most random ones
 - [Lummi](https://www.lummi.ai/) <br> For downloading free HD 4K/8K ultra-realistic AI pictures and 3D models
 - [Spline](https://spline.design/) <br> Online tool to render quality 3D models, a quick subsitute for Blender or Maya assets.
 
